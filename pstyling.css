@@ -1,0 +1,334 @@
+*{
+    color: black;
+    font-family: Arial;
+    background-color:whitesmoke;
+    text-align: center;
+}
+header{
+    color: white;
+    font-family: Arial;
+    background-color:rgb(21, 20, 20);
+    
+}
+.navbar{
+    background-color: black;
+    height: 40px;
+    text-decoration:none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ccc;
+    align-items: center;
+    border:2px dashed white;
+}
+
+#container1{
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: flex-start;
+}
+#container2{
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: flex-start;
+}
+#container3{
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: flex-start;
+
+
+}
+#container4{
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: flex-start;
+}
+#container5{
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: flex-start;
+}
+#container6{
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction:row ;
+    justify-content: start;
+    align-items: flex-start;
+}
+a{
+    text-decoration: none;
+}
+#box1{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("a1blue.jpg"); 
+}    
+#box2{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("b2green.jpg");
+}
+#box3{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("c2purple.jpg");
+}
+#box4{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("d1orange.jpg");
+}
+#box5{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("e3red.jpg");
+}
+#box6{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("f3white.jpg");
+}
+#box7{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("g3purple.jpg");
+}
+
+#box8{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("h3white.jpg");
+}
+#box9{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 100px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("i2bluishgreen.jpg");
+}
+#box10{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 100px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("j3pink.jpg");
+}
+#box11{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("k3black.jpg");
+}
+#box12{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("l3peach.jpg");
+}
+#box13{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("m1black.jpg");
+}
+#box14{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("n3white.jpg");
+}
+#box15{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right:40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("o2green.jpg");
+}
+#box16{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("q3brown.jpg");
+}
+
+#box17{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("r2black.jpg");
+}
+#box18{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("t2gray.jpg");
+}
+#box19{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("u2brown.jpg");
+}
+#box20{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("v1pinkandblack.jpg");
+}
+#box21{
+    height: 250px;
+    width: 250px;
+    border-color:black;
+    color:white;
+    border-radius: 50%;
+    margin-right: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("w1black.jpg");
+}
+
+footer{
+    border-style: solid;
+    border-radius: 5px;
+    height: 50px;
+    width: auto;
+    background-color: black;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: flex-start;
+}
